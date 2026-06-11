@@ -11,3 +11,6 @@ Cat-Pilot 是一款基于 Next.js 16 和 DeepSeek API 开发的“关卡式”�
 三、快速启动
 cd my-ai-tutor
 npm run dev
+
+四、设计思路
+详细设计思路可见docs文件夹design.md
